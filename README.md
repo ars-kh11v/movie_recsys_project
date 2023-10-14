@@ -20,9 +20,10 @@ To install the required packages, run the following command:
 
 ```bash
 pip install -r requirements.txt
-
+```
 After you need to run all cells in recsys.ipynb
 
 Finally run this 
 ```bash
 streamlit run app.py
+```
