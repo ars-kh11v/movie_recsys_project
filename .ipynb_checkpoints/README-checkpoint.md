@@ -1,29 +1,28 @@
 # Movie Recommendation System
 
-# Movie Recommendation System
-
 ## Table of Contents
 1. [Introduction](#introduction)
-2. [Features](#features)
-    - [Content-based Recommendations](#content-based-recommendations)
-    - [Collaborative Filtering](#collaborative-filtering)
-3. [Technologies](#technologies)
+2. [Technologies](#technologies)
+3. [How to run](#howto)
 
 <a id="introduction"></a>
 ## Introduction
-...
-
-<a id="features"></a>
-## Features
-
-<a id="content-based-recommendations"></a>
-### Content-based Recommendations
-...
-
-<a id="collaborative-filtering"></a>
-### Collaborative Filtering
-...
-
+This project aims to build a movie recommendation system using machine learning algorithms. The system can recommend movies based on content similarity.
 <a id="technologies"></a>
 ## Technologies
-...
+* python 3.10
+* pandas
+* sklearn
+* straemlit
+<a id="howto"></a>
+## How to run 
+To install the required packages, run the following command:
+
+```bash
+pip install -r requirements.txt
+
+After you need to run all cells in recsys.ipynb
+
+Finally run this 
+```bash
+streamlit run app.py
