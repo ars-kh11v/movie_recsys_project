@@ -12,7 +12,10 @@ This project aims to build a movie recommendation system using machine learning 
 
 <a id="architecture"></a>
 ## Architecture of project
-
 <a id="technologies"></a>
 ## Technologies
-...
+* python 3.10
+* pandas
+* sklearn
+* straemlit
+## How to run 
